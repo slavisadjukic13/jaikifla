@@ -1,0 +1,7 @@
+# Dependency directories
+node_modules
+components
+components/*
+.idea
+.idea/*
+.idea/workspace.xml
